@@ -27,6 +27,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.18.1",
     "healthpoint": "^1.0.0",
+    "http-errors": "^2.0.0",
     "http-hash-router": "^2.0.1",
     "productionize": "^4.1.0",
     "redis": "^3.0.2",
